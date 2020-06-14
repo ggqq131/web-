@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>lmh</title>
+	<style>
+		*{
+			padding: 0;
+			margin: 0;
+		}
+		li{
+			list-style:none;
+		}
+		a{
+			text-decoration: none;
+			color:black;
+		}
+		a:hover{
+			color:orange;
+			font-size: 20px;
+			border-bottom: 1px solid orange;
+
+		}
+		.a1>ul>li{
+			float:left;
+		}
+		.a1 li{
+			height:80px;
+			width:160px;
+			text-align: center;
+			line-height: 80px;
+		}
+		.a1{
+			width:1200px;
+			height:80px;
+			margin:0 auto;
+		}
+		img{
+			float:left;
+		}
+		.a2{
+			background-color: #ddd;
+			height:600px;
+			position: relative;
+		}
+		.a3{
+			margin: 0 auto;
+			width:1200px;
+		}
+		.a4{
+			height:100px;
+			margin:0 auto;
+		}
+		.a5{
+			margin: 0 auto;
+			float: left;
+			padding-top: 20px;
+			padding-left: 1px;
+			padding-right: 2px;
+			padding-bottom: 2px;
+			position: relative;
+		}
+		.a6{
+			margin: 0 auto;
+			float: left;
+			padding-top: 20px;
+			padding-left: 1px;
+			position: relative;
+			padding-bottom: 2px;
+		}
+		.a7{
+			margin: 0 auto;
+			float: left;
+			padding-top: 2px;
+			padding-left: 1px;
+			padding-right: 2px;
+			position: relative;
+		}
+		.a8{
+			margin: 0 auto;
+			float: left;
+			padding-top: 2px;
+			padding-left: 1px;
+			position: relative;
+		}
+		.a9{
+			background-color: #000;
+			color:#fff;
+			text-align: center;
+			line-height: 120px;
+			height: 120px;
+		}
+		.h2{
+			margin: 0 auto;
+			position: absolute;
+			bottom:0;
+			width: 512px;
+			height: 47px;
+			background-color: rgba(0,0,0,0.4);
+			text-indent: : 50px;
+			line-height: 47px;
+			color:#fff;
+			padding-left: 38px;
+		}
+		.h3{
+			margin: 0 auto;
+			position: absolute;
+			bottom:0;
+			width: 512px;
+			height: 47px;
+			background-color: rgba(0,0,0,0.4);
+			text-indent: : 50px;
+			line-height: 47px;
+			color:#fff;
+			padding-left: 38px;
+		}
+		.h4{
+			margin: 0 auto;
+			position: absolute;
+			bottom:0;
+			width: 512px;
+			height: 47px;
+			background-color: rgba(0,0,0,0.4);
+			text-indent: : 50px;
+			line-height: 47px;
+			color:#fff;
+			padding-left: 38px;
+		}
+		.h5{
+			margin: 0 auto;
+			position: absolute;
+			bottom:0;
+			width: 512px;
+			height: 47px;
+			background-color: rgba(0,0,0,0.4);
+			text-indent: : 50px;
+			line-height: 47px;
+			color:#fff;
+			padding-left: 38px;
+		}
+
+	</style>
+
+</head>
+<body>
+ 	<div class="a1">
+		<img src="363956678870043784.jpg">
+		<ul>
+			<li><a href="#">综合</a></li>
+			<li><a href="#">销量</a></li>
+			<li><a href="#">新品</a></li>
+			<li><a href="#">价格</a></li>
+		</ul>
+	</div>
+	<div class="a4">
+		<form action="" class="c1">
+			<input type="text" class="c2" placeholder="">
+			<input type="button" name="百度一下" id="百度一下" class="c3" value="搜索">
+	<div class="a2">
+		<div class="a3">
+			<div class="a5">
+				<img src="微信图片_20200614145355.jpg">
+				<div class="h2">
+				<font style="font-size:18px">201007E</font>
+				<font style="font-size:26px">￥370</font>
+			    </div>
+			</div>
+			<div class="a6">
+				<img src="微信图片_20200614145404.jpg">
+				<div class="h3">
+				<font style="font-size:18px">006285E</font>
+				<font style="font-size:26px">￥450</font>
+			    </div>
+			</div>
+			<div class="a7">
+				<img src="微信图片_20200614145413.jpg">
+				<div class="h4">
+				<font style="font-size:18px">201047E</font>
+				<font style="font-size:26px">￥369/人</font>
+			    </div>
+			</div>
+			<div class="a8">
+				<img src="微信图片_20200614145419.jpg">
+				<div class="h5">
+				<font style="font-size:18px">A71068XC</font>
+				<font style="font-size:26px">￥399</font>
+			    </div>
+			</div>
+		</div>
+	</div>
+		<div class="a9">苏icp备000号、2000-2020版权所有</div>
+
+
+
+
+</body>
+</html>
